@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m @TreSchool
+- 👋 Hi, I’m Tre
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning PHP and Java
 - 💞️ I’m looking to collaborate on robotics
