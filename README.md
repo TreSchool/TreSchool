@@ -7,7 +7,7 @@
 
 ## I am on team 4272
 Here are some events comming up for my team: <br>
-![events](https://thebluealliance-embed.herokuapp.com/?font=Arial&num=4272&color=fff&github=true)
+![events](https://thebluealliance-embed.herokuapp.com/?font=Arial&num=4272&color=808080&github=true)
 
 <div align="center">
   
