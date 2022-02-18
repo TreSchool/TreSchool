@@ -5,6 +5,10 @@
 - 💞️ I’m looking to collaborate on robotics
 - 😄 Pronouns: He/Him/Any
 
+## I am on team 4272
+Here are some events comming up for my team: <br>
+![events](https://thebluealliance-embed.herokuapp.com/?font=Arial&num=4272&color=fff&github=true)
+
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=TreSchool&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
