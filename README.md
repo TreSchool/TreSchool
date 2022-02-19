@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 👋 Hi, I’m Tre
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning PHP and Java
 - 💞️ I’m looking to collaborate on robotics
 - 😄 Pronouns: He/Him/Any
@@ -18,4 +17,5 @@ Here are some events comming up for my team: <br>
 
 <!---
 - 📫 How to reach me: [Discord](https://www.discord.com/users/267139558125076480)
+- 👀 I’m interested in ...
 --->
