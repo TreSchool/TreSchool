@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning PHP and Java
 - 💞️ I’m looking to collaborate on robotics
 - 😄 Pronouns: He/Him/Any
+- ℹ️ This account will be locked after I graduate from school
 
 ## I am on team 4272
 Here are some events comming up for my team: <br>
